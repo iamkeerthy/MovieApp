@@ -9,41 +9,45 @@ MovieApp is a feature-rich web application designed to explore, search, and disc
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
-Backend: [Your backend technology, e.g., Node.js, PHP, Python]
-Database: [Your database, e.g., MySQL, MongoDB]
 API: Integrated with The Movie Database (TMDb) for movie data.
 
-🚀 Getting Started
-Prerequisites
-Node.js (for running a server, if applicable)
-Git (for version control)
+🚀 ## Getting Started
 
+Follow the steps below to clone and set up the project:
 
-Installation
-Clone the repository:
+### 1. Clone the repository
+Open your terminal and run the following command to clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/MovieApp.git
+```bash
+git clone https://github.com/iamkeerthy/MovieApp.git
+```
+2. Navigate to the project directory
+After cloning the repository, navigate into the project folder:
+
+```bash
+
 cd MovieApp
-Install dependencies (if applicable):
 
-bash
-Copy code
+```
+3. Install dependencies
+If the project requires dependencies, install them using the appropriate package manager. For example, if you're using npm for Node.js projects:
+
+```bash
+
 npm install
-Start the development server:
+```
+For other dependencies, refer to the specific instructions of the project.
 
-bash
-Copy code
+Usage
+Once the dependencies are installed, you can start using the application as intended.
+
+Example Commands
+To run the project locally, use the following command (example for Node.js):
+
+```bash
 npm start
-Open the app in your browser:
+```
 
-bash
-Copy code
-http://localhost:3000
-📄 Screenshots
-Include some screenshots of the application in action for better understanding.
-For example:
 
 📚 API Integration
 This app uses the TMDb API. Sign up for an API key at The Movie Database.
