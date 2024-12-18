@@ -11,6 +11,13 @@ MovieApp is a feature-rich web application designed to explore, search, and disc
 Frontend: HTML, CSS, JavaScript
 API: Integrated with The Movie Database (TMDb) for movie data.
 
+
+## Screenshot
+
+Here is a screenshot of the app:
+
+![MovieApp Screenshot](https://github.com/iamkeerthy/MovieApp/blob/main/movieappexample.jpg)
+
 🚀 ## Getting Started
 
 Follow the steps below to clone and set up the project:
